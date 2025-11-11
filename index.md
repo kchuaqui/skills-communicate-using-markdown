@@ -5,8 +5,11 @@
 
 
 
-
+``` javascript
+var myVar = "Welcome to Freddy Fazbears";
+```
 
 
 i just added a big header text and an image using markup yayyy!! 
+
 
