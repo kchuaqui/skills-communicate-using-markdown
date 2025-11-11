@@ -6,10 +6,14 @@
 
 
 ``` javascript
-var myVar = "Welcome to Freddy Fazbears";
+var myVar = "Welcome to Freddy Fazbears Pizzeria";
 ```
 
 
 i just added a big header text and an image using markup yayyy!! 
 
+- [ ] Freddy
+- [ ] Chica
+- [ ] Bonnie
+- [ ] Foxy
 
